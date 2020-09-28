@@ -1,0 +1,9 @@
+const ListActionTypes = {
+  CARD_CREATE: 'CARD_CREATE',
+  CARD_DELETE: ' CARD_DELETE',
+  LIST_CREATE: 'LIST_CREATE',
+  MOVE_CARD_TO_LIST: 'MOVE_CARD_TO_LIST',
+  REMOVE_LIST: ' REMOVE_LIST',
+};
+
+export default ListActionTypes;
